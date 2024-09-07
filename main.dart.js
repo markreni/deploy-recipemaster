@@ -89597,7 +89597,7 @@ A.PD.prototype={
 eD(a,b){var s,r,q,p,o=this,n=null,m=J.nx(b.bp($.hT(),t.Qw),new A.afs(o)),l=A.U(m,!0,m.$ti.i("m.E")),k=l.length,j=A.aK(a,n,t.w).w.a.a>=1280&&k>=4?4:3
 if(k!==0){m=A.a_(l).i("X<1,kR>")
 s=m.i("ar.E")
-r=A.MY(0.5,A.U(new A.X(l,new A.aft(o),m),!0,s),2,5,20,n,B.eR,!0)
+r=A.MY(0.7,A.U(new A.X(l,new A.aft(o),m),!0,s),2,5,20,n,B.eR,!0)
 q=$.a1G()
 p=t.p
 p=new A.mp(A.bW(A.a([r,B.c4,A.qa(!1,B.ie,B.m,n,n,n,n,n,new A.afu(a),n,q),B.c4],p),B.z,B.w,B.r),A.bW(A.a([A.MY(1,A.U(new A.X(l,new A.afv(o),m),!0,s),j,0,0,n,B.eR,!0),B.c4,A.qa(!1,B.ie,B.m,n,n,n,n,n,new A.afw(a),n,q),B.c4],p),B.z,B.w,B.r),n,n)
@@ -89817,7 +89817,7 @@ A.PE.prototype={
 eD(a,b){var s,r=null,q=J.nx(b.bp($.hT(),t.Qw),new A.afz(this)),p=q.$ti,o=A.U(q,!0,p.i("m.E")).length,n=A.aK(a,r,t.w).w.a.a>=1280&&o>=4?4:3
 if(o!==0){p=p.i("cC<1,kR>")
 s=p.i("m.E")
-s=new A.mp(A.MY(0.5,A.U(new A.cC(q,new A.afA(this),p),!0,s),2,5,20,r,B.eR,!0),A.MY(1,A.U(new A.cC(q,new A.afB(this),p),!0,s),n,0,0,r,B.eR,!0),r,r)
+s=new A.mp(A.MY(0.7,A.U(new A.cC(q,new A.afA(this),p),!0,s),2,5,20,r,B.eR,!0),A.MY(1,A.U(new A.cC(q,new A.afB(this),p),!0,s),n,0,0,r,B.eR,!0),r,r)
 p=s}else p=B.Dt
 return p}}
 A.afz.prototype={
